@@ -1,0 +1,23 @@
+{
+  "modules": true,
+  "plugins": {
+    "postcss-easy-import": {
+      "failOnError": true
+    },
+    "postcss-cssnext": {
+      "warnForDuplicates": false,
+      "browsers": ["ie > 8", "safari >= 7", "last 2 versions"]
+    },
+    "cssnano": {
+      "safe": true,
+      "preset": [
+        "default",
+        {
+          "discardComments": {
+            "removeAll": true
+          }
+        }
+      ]
+    }
+  }
+}

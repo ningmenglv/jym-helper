@@ -1,0 +1,78 @@
+@font-face {
+  font-family: "yueyuan";
+  src: url('../font/yueyuan/yueyuan.eot');
+  src: url('../font/yueyuan/yueyuan.eot?#iefix') format('embedded-opentype'), url('../font/yueyuan/yueyuan.woff') format('woff'), url('../font/yueyuan/yueyuan.ttf') format('truetype'), url('../font/yueyuan/yueyuan.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "iconfont";
+  src: url('../font/icon/iconfont.eot');
+  src: url('../font/icon/iconfont.eot?#iefix') format('embedded-opentype'), url('../font/icon/iconfont.eot') format('embedded-opentype'), url('../font/icon/iconfont.woff') format('woff'), url('../font/icon/iconfont.ttf') format('truetype'), url('../font/icon/iconfont.svg') format('svg');
+  font-style: normal;
+  font-weight: normal;
+}
+
+.font-yueyuan {
+  font-family: "yueyuan";
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qq:before { content: "\e648"; }
+
+.icon-weixin:before { content: "\e66f"; }
+
+.icon-shuzi4:before { content: "\e60e"; }
+
+.icon-shuzi5:before { content: "\e60f"; }
+
+.icon-xinlang:before { content: "\e600"; }
+
+.icon-shouji:before { content: "\e878"; }
+
+.icon-top:before { content: "\e62e"; }
+
+.icon-user:before { content: "\e602"; }
+
+.icon-49:before { content: "\e62d"; }
+
+.icon-jiantou-copy-copy:before { content: "\e607"; }
+
+.icon-suo:before { content: "\e62c"; }
+
+.icon-icon-up:before { content: "\e605"; }
+
+.icon-rechange:before { content: "\e61c"; }
+
+.icon-Close:before { content: "\e62f"; }
+
+.icon-jinbi:before { content: "\e604"; }
+
+.icon-xiugaitouxiang:before { content: "\e606"; }
+
+.icon-duihao2:before { content: "\e69e"; }
+
+.icon-kefu:before { content: "\e687"; }
+
+.icon-shizhong1:before { content: "\e613"; }
+
+.icon-duihao1:before { content: "\e614"; }
+
+.icon-sou:before { content: "\e603"; }
+
+.icon-shizhong2:before { content: "\e631"; }
+
+.icon-money:before { content: "\e656"; }
+
+.icon-shenqing-:before { content: "\e762"; }
+
+.icon-trend:before { content: "\e611"; }
+

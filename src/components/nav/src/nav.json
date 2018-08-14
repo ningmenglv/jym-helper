@@ -1,0 +1,83 @@
+{
+    "items": [{
+            "label": "关于我们",
+            "items": [{
+                "label": "组织信息",
+                "path": "/we/organization"
+            }, {
+                "label": "产品介绍",
+                "path": "/we/product"
+            }, {
+                "label": "备案信息",
+                "path": "/we/onrecord"
+            },{
+                "label": "重大事项",
+                "path": "/we/important"
+            },{
+                "label": "审计信息",
+                "path": "/we/audit"
+            },{
+                "label": "联系我们",
+                "path": "/we/contact"
+            }, {
+                "label": "招贤纳士",
+                "path": "/we/job"
+            }]
+        }, {
+            "label": "平台运营",
+            "items": [{
+                "label": "运营报告",
+                "path": "/platform/reportList"
+            }, {
+                "label": "平台数据",
+                "path": "/platform/information"
+            }]
+        },
+        {
+            "label": "安全保障",
+            "path":"/security",
+            "items": []
+        },
+        {
+            "label": "收费标准",
+            "path":"/charge",
+            "items": []
+        },
+        {
+            "label": "法律法规",
+            "path":"/law",
+            "items": []
+        },
+        {
+            "label": "公司动态",
+            "items": [{
+                "label": "里程碑",
+                "path": "/company/milepost"
+            }, {
+                "label": "资质荣誉",
+                "path": "/company/honor"
+            }, {
+                "label": "媒体报道",
+                "path": "/company/report"
+            }, {
+                "label": "喵喵动态",
+                "path": "/company/dynamic"
+            }]
+        }, {
+            "label": "帮助中心",
+            "items": [{
+                "label": "常见问题",
+                "path": "/helpcenter/question"
+            }, {
+                "label": "新手指南",
+                "path": "/helpcenter/guide"
+            }, {
+                "label": "理财课堂",
+                "path": "/helpcenter/financing"
+            }, {
+                "label": "服务协议",
+                "path": "/helpcenter/protocol"
+            }]
+        }
+    ]
+}
